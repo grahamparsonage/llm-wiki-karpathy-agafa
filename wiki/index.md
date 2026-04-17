@@ -31,6 +31,7 @@ Each entry follows this format:
 - [[wires-ai-in-digital-forensics-ontology-engineering]] — Review of ontology engineering as a foundation for automated digital forensic reasoning and data integration | source | 2026-04-17
 - [[reasoning-with-rules-and-ontologies-reasoning-web-2006]] — Tutorial volume framing semantic-web rule/ontology integration and inference/query trade-offs | source | 2026-04-17
 - [[what-is-answer-set-programming-lifschitz-2008]] — Foundational ASP overview covering stable models, solver behavior, and generate-define-test methodology | source | 2026-04-17
+- [[the-proactive-and-reactive-digital-forensics-investigation-process]] — SLR-derived model integrating proactive live evidence handling with reactive post-incident investigation | source | 2026-04-17
 
 ---
 
@@ -75,6 +76,8 @@ Each entry follows this format:
 - [[digital-forensic-ontology-standardization]] — Interoperability and reuse challenges from fragmented custom DF ontologies | concept | 2026-04-17
 - [[rules-and-ontologies-integration]] — Integration pattern combining ontology semantics with explicit rule-based derivations | concept | 2026-04-17
 - [[semantic-web-querying-and-inference-patterns]] — Query and inference pattern families for RDF/ontology-centered reasoning workflows | concept | 2026-04-17
+- [[proactive-and-reactive-digital-forensics-process]] — Two-component DF model connecting automated live collection to traditional reactive investigation | concept | 2026-04-17
+- [[anti-forensics-in-digital-investigations]] — Adversarial tactics that obstruct evidence discovery, integrity, or interpretation in DF | concept | 2026-04-17
 
 ---
 
@@ -93,6 +96,8 @@ Each entry follows this format:
 - [[agafa-alignment-with-acpo-principles]] — Compares AGAFA architecture against ACPO principle expectations and governance needs | analysis | 2026-04-17
 - [[acpo-compliance-checklist-for-agafa-deployments]] — One-page operational checklist for ACPO-aligned AGAFA deployment readiness | analysis | 2026-04-17
 - [[forensic-asp-validation-template-for-llm-outputs]] — Practical ontology+ASP template for validating LLM forensic outputs with audit/scope controls | analysis | 2026-04-17
+- [[acpo-vs-proactive-reactive-process-alignment]] — Side-by-side alignment of ACPO governance principles with proactive/reactive DF process design | analysis | 2026-04-17
+- [[agafa-role-in-proactive-reactive-df-process]] — Maps AGAFA to proactive/reactive phases as an analysis/validation component with governance dependencies | analysis | 2026-04-17
 
 ---
 

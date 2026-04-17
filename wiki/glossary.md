@@ -3,7 +3,7 @@ title: Glossary
 type: glossary
 created: 2026-04-07
 updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf]
 tags: [terminology, style, glossary]
 ---
 
@@ -145,6 +145,26 @@ Each entry follows this format:
 : Common ASP modeling organization where rules generate candidates, auxiliary rules define derived predicates, and constraints test/filter invalid candidates.
 - Preferred: `generate-define-test` / Avoid: `single-phase ASP encoding`
 - See also: [[answer-set-programming-asp]]
+
+**Proactive Forensics (DF process context)** *(canonical form)*
+: Digital forensics activities performed during live system operation to collect, preserve, and preliminarily analyze potential evidence as events occur.
+- Preferred: `proactive forensics` / Avoid: `IDS-only monitoring` (when forensically sound evidence handling is intended)
+- See also: [[proactive-and-reactive-digital-forensics-process]]
+
+**Reactive Forensics (DF process context)** *(canonical form)*
+: Traditional post-incident (post-mortem) forensic investigation sequence emphasizing identification, preservation, collection, and deeper analysis after an incident.
+- Preferred: `reactive forensics` / Avoid: `delayed-only response` (when structured forensic process is intended)
+- See also: [[proactive-and-reactive-digital-forensics-process]]
+
+**Anti-forensics** *(canonical form)*
+: Methods designed to hinder forensic detection, evidence collection, interpretation, or admissibility, including data hiding and destruction techniques.
+- Preferred: `anti-forensics` / Avoid: `forensic evasion tricks` (informal wording)
+- See also: [[anti-forensics-in-digital-investigations]]
+
+**Event Triggering Function (proactive DF)** *(canonical form)*
+: Logic in proactive workflows that marks observed patterns as suspicious events and initiates targeted preservation and analysis actions.
+- Preferred: `event triggering function` / Avoid: `alert rule` (when broader workflow handoff meaning is intended)
+- See also: [[proactive-and-reactive-digital-forensics-process]]
 
 ---
 

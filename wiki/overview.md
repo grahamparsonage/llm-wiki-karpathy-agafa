@@ -3,7 +3,7 @@ title: Overview
 type: overview
 created: 2026-04-07
 updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf]
 tags: [overview, synthesis]
 ---
 
@@ -15,11 +15,11 @@ tags: [overview, synthesis]
 
 ## Current State
 
-This wiki now includes five ingested sources with framework, procedural, ontology-engineering, rule/ontology integration, and ASP-foundations guidance for explainable digital forensics.
+This wiki now includes six ingested sources with framework, procedural, proactive/reactive process, ontology-engineering, rule/ontology integration, and ASP-foundations guidance for explainable digital forensics.
 
-**Source count:** 5
-**Wiki pages:** 25 (index, log, overview, glossary, 5 sources, 1 product, 13 concepts, 1 style rule, 2 analyses)
-**Last ingest:** 2026-04-17 — What Is Answer Set Programming?
+**Source count:** 6
+**Wiki pages:** 30 (index, log, overview, glossary, 6 sources, 1 product, 15 concepts, 1 style rule, 3 analyses)
+**Last ingest:** 2026-04-17 — The Proactive and Reactive Digital Forensics Investigation Process
 **Last lint:** —
 
 ---
@@ -31,6 +31,7 @@ This knowledge base currently focuses on AI-assisted digital forensics documenta
 Current coverage includes:
 - The AGAFA framework as a product-level reference
 - ACPO digital evidence principles as a UK-focused procedural baseline
+- Proactive/reactive DF process modeling for live evidence capture and post-incident handoff
 - Ontology-engineering patterns for semantic evidence integration and automation
 - Rules-and-ontologies integration patterns for explicit derivation workflows
 - ASP foundations including stable model semantics and generate-define-test modeling
@@ -47,6 +48,7 @@ Current coverage includes:
 - **Hybrid architecture:** MM-LLM inference is combined with symbolic ontologies and formal rule checks.
 - **Auditability and reproducibility:** Workflows prioritize contemporaneous records and third-party reviewability.
 - **Procedural governance baseline:** ACPO principles provide UK-focused process guardrails for evidence handling and reporting.
+- **Proactive-to-reactive handoff:** Event-triggered live evidence workflows can feed structured post-mortem investigation.
 - **Semantic integration focus:** Ontology engineering and Semantic Web standards enable machine-interpretable evidence fusion and reasoning.
 - **Reasoning design focus:** Query-language and inference-pattern choices materially affect expressiveness and evaluation behavior.
 - **Scope-bounded investigation design:** Investigation behavior is constrained by legal authority and proportionality principles.

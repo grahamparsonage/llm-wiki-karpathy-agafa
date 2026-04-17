@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/analyses/agafa-alignment-with-acpo-principles.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "agafa-alignment-with-acpo-principles"
             }
           }
         ]
@@ -185,12 +185,20 @@
   },
   "active": "065e9cb0852e0b64",
   "lastOpenFiles": [
+    "wiki/analyses/agafa-role-in-proactive-reactive-df-process.md",
+    "wiki/analyses/acpo-vs-proactive-reactive-process-alignment.md",
+    "wiki/concepts/anti-forensics-in-digital-investigations.md",
+    "wiki/concepts/proactive-and-reactive-digital-forensics-process.md",
+    "wiki/sources/the-proactive-and-reactive-digital-forensics-investigation-process.md",
+    "raw/The Proactive and Reactive Digital Forensics Investigation Process.pdf",
+    "raw/Unconfirmed 361559.crdownload",
+    "wiki/concepts/acpo-four-principles-of-digital-evidence.md",
+    "wiki/index.md",
     "wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md",
     "wiki/sources/agafa.md",
     "wiki/products/agafa-framework.md",
     "wiki/sources/what-is-answer-set-programming-lifschitz-2008.md",
     "wiki/concepts/answer-set-programming-asp.md",
-    "wiki/index.md",
     "raw/What is answer set programming.pdf",
     "raw/Unconfirmed 325085.crdownload",
     "wiki/concepts/semantic-web-querying-and-inference-patterns.md",
@@ -207,19 +215,11 @@
     "raw/WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf",
     "raw/Unconfirmed 947121.crdownload",
     "wiki/analyses/agafa-alignment-with-acpo-principles.md",
-    "wiki/concepts/acpo-four-principles-of-digital-evidence.md",
     "wiki/sources/acpo-good-practice-guide-digital-evidence-v5.md",
     "wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md",
     "wiki/style/forensic-reporting-fact-vs-opinion.md",
     "wiki/concepts/audit-trail-and-reproducibility-in-df.md",
-    "wiki/concepts/digital-forensic-triage-and-proportionality.md",
     "wiki/analyses",
-    "wiki/style",
-    "raw/ACPO.pdf",
-    "raw/Unconfirmed 602350.crdownload",
-    "wiki/concepts/neuro-symbolic-ai.md",
-    "article.md",
-    "wiki/concepts/knowledge-augmented-generation-kag.md",
-    "wiki/concepts/retrieval-augmented-generation-rag.md"
+    "wiki/style"
   ]
 }

@@ -145,3 +145,43 @@ Pages consulted:
 - `wiki/style/forensic-reporting-fact-vs-opinion.md`
 
 Output filed: yes — `wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md`
+
+## [2026-04-17] ingest | The Proactive and Reactive Digital Forensics Investigation Process
+
+Pages created:
+- `wiki/sources/the-proactive-and-reactive-digital-forensics-investigation-process.md`
+- `wiki/concepts/proactive-and-reactive-digital-forensics-process.md`
+- `wiki/concepts/anti-forensics-in-digital-investigations.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/glossary.md`
+- `wiki/overview.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+
+Key additions:
+- SLR-derived two-component model linking automated proactive evidence handling with reactive post-incident investigation
+- Dedicated concepts for proactive/reactive process structure and anti-forensics pressure on DF workflows
+- Glossary expansion for proactive forensics, reactive forensics, anti-forensics, and event triggering function terminology
+
+## [2026-04-17] query | ACPO vs proactive-reactive process comparison
+
+Pages consulted:
+- `wiki/concepts/acpo-four-principles-of-digital-evidence.md`
+- `wiki/concepts/proactive-and-reactive-digital-forensics-process.md`
+- `wiki/concepts/anti-forensics-in-digital-investigations.md`
+- `wiki/concepts/audit-trail-and-reproducibility-in-df.md`
+- `wiki/analyses/agafa-alignment-with-acpo-principles.md`
+
+Output filed: yes — `wiki/analyses/acpo-vs-proactive-reactive-process-alignment.md`
+
+## [2026-04-17] query | how AGAFA relates to proactive-reactive process
+
+Pages consulted:
+- `wiki/products/agafa-framework.md`
+- `wiki/sources/agafa.md`
+- `wiki/concepts/proactive-and-reactive-digital-forensics-process.md`
+- `wiki/analyses/acpo-vs-proactive-reactive-process-alignment.md`
+- `wiki/analyses/agafa-alignment-with-acpo-principles.md`
+
+Output filed: yes — `wiki/analyses/agafa-role-in-proactive-reactive-df-process.md`
