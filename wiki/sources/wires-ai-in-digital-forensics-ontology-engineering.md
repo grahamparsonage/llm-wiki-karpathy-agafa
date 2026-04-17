@@ -1,5 +1,5 @@
 ---
-title: AI in Digital Forensics: Ontology Engineering for Cybercrime Investigations
+title: "AI in Digital Forensics: Ontology Engineering for Cybercrime Investigations"
 type: source
 created: 2026-04-17
 updated: 2026-04-17

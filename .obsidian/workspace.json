@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4fe0281054aefd68",
+        "id": "75929d98dfd6cb94",
         "type": "tabs",
         "children": [
           {
-            "id": "065e9cb0852e0b64",
+            "id": "3b63e8fc01104f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/log.md",
+                "file": "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "wires-ai-in-digital-forensics-ontology-engineering"
             }
           }
         ]
@@ -183,17 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "065e9cb0852e0b64",
+  "active": "3b63e8fc01104f5f",
   "lastOpenFiles": [
-    "wiki/analyses/agafa-go-no-go-deployment-gate.md",
+    "wiki/index.md",
+    "wiki/style/forensic-reporting-fact-vs-opinion.md",
+    "wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md",
     "wiki/analyses/agafa-use-cases-under-acpo-and-quality-standards.md",
+    "wiki/log.md",
+    "wiki/analyses/agafa-go-no-go-deployment-gate.md",
     "wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md",
     "wiki/sources/quality-standards-for-digital-forensics.md",
     "raw/Quality standards for digital forensics.pdf",
     "raw/Unconfirmed 55304.crdownload",
     "wiki/glossary.md",
     "wiki/overview.md",
-    "wiki/index.md",
     "wiki/analyses/agafa-role-in-proactive-reactive-df-process.md",
     "wiki/concepts/proactive-and-reactive-digital-forensics-process.md",
     "wiki/analyses/agafa-alignment-with-acpo-principles.md",
@@ -216,9 +219,6 @@
     "raw/reasoning with rules and ontologies..pdf",
     "raw/Unconfirmed 108556.crdownload",
     "wiki/concepts/ontology-engineering-in-digital-forensics.md",
-    "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
-    "wiki/concepts/digital-forensic-ontology-standardization.md",
-    "wiki/concepts/semantic-web-standards-for-digital-forensics-automation.md",
     "raw/WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf",
     "raw/Unconfirmed 947121.crdownload"
   ]
