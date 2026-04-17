@@ -185,3 +185,44 @@ Pages consulted:
 - `wiki/analyses/agafa-alignment-with-acpo-principles.md`
 
 Output filed: yes — `wiki/analyses/agafa-role-in-proactive-reactive-df-process.md`
+
+## [2026-04-17] ingest | Quality standards for digital forensics
+
+Pages created:
+- `wiki/sources/quality-standards-for-digital-forensics.md`
+- `wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md`
+
+Pages updated:
+- `wiki/index.md`
+- `wiki/glossary.md`
+- `wiki/overview.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/concepts/audit-trail-and-reproducibility-in-df.md`
+
+Key additions:
+- Empirical UK-focused evidence on ISO/IEC 17025 and Codes implementation outcomes in DF units
+- Dedicated concept page for quality standards/accreditation as a system-level DF reliability control
+- Glossary expansion for ISO/IEC 17025, method validation, and proficiency testing terminology
+
+## [2026-04-17] query | analyse AGAFA use cases under ACPO and quality standards
+
+Pages consulted:
+- `wiki/products/agafa-framework.md`
+- `wiki/analyses/agafa-alignment-with-acpo-principles.md`
+- `wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md`
+- `wiki/analyses/agafa-role-in-proactive-reactive-df-process.md`
+- `wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md`
+- `wiki/concepts/acpo-four-principles-of-digital-evidence.md`
+
+Output filed: yes — `wiki/analyses/agafa-use-cases-under-acpo-and-quality-standards.md`
+
+## [2026-04-17] query | AGAFA go/no-go deployment gate
+
+Pages consulted:
+- `wiki/analyses/agafa-use-cases-under-acpo-and-quality-standards.md`
+- `wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md`
+- `wiki/analyses/agafa-alignment-with-acpo-principles.md`
+- `wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md`
+- `wiki/concepts/acpo-four-principles-of-digital-evidence.md`
+
+Output filed: yes — `wiki/analyses/agafa-go-no-go-deployment-gate.md`

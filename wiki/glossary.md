@@ -3,7 +3,7 @@ title: Glossary
 type: glossary
 created: 2026-04-07
 updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf]
 tags: [terminology, style, glossary]
 ---
 
@@ -165,6 +165,21 @@ Each entry follows this format:
 : Logic in proactive workflows that marks observed patterns as suspicious events and initiates targeted preservation and analysis actions.
 - Preferred: `event triggering function` / Avoid: `alert rule` (when broader workflow handoff meaning is intended)
 - See also: [[proactive-and-reactive-digital-forensics-process]]
+
+**ISO/IEC 17025 (DF context)** *(canonical form)*
+: International laboratory competence standard used in digital forensics quality systems to structure validation, competence, records, and assurance activities.
+- Preferred: `ISO/IEC 17025` / Avoid: `tool certification standard` (too narrow)
+- See also: [[quality-standards-and-accreditation-in-digital-forensics]]
+
+**Method Validation (DF quality context)** *(canonical form)*
+: Demonstration that an end-to-end forensic method (not only a single tool) is fit for intended use, including limits, risks, and repeatability.
+- Preferred: `method validation` / Avoid: `tool-only verification` (when full method assurance is required)
+- See also: [[quality-standards-and-accreditation-in-digital-forensics]]
+
+**Proficiency Testing (DF quality context)** *(canonical form)*
+: Structured testing used to monitor ongoing technical performance and quality assurance effectiveness in forensic units.
+- Preferred: `proficiency testing` / Avoid: `ad hoc spot checks` (when formal quality assurance is intended)
+- See also: [[quality-standards-and-accreditation-in-digital-forensics]]
 
 ---
 

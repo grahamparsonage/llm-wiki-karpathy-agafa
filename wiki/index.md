@@ -32,6 +32,7 @@ Each entry follows this format:
 - [[reasoning-with-rules-and-ontologies-reasoning-web-2006]] — Tutorial volume framing semantic-web rule/ontology integration and inference/query trade-offs | source | 2026-04-17
 - [[what-is-answer-set-programming-lifschitz-2008]] — Foundational ASP overview covering stable models, solver behavior, and generate-define-test methodology | source | 2026-04-17
 - [[the-proactive-and-reactive-digital-forensics-investigation-process]] — SLR-derived model integrating proactive live evidence handling with reactive post-incident investigation | source | 2026-04-17
+- [[quality-standards-for-digital-forensics]] — Empirical UK-focused review of accreditation-driven quality improvements and implementation burdens in DF units | source | 2026-04-17
 
 ---
 
@@ -78,6 +79,7 @@ Each entry follows this format:
 - [[semantic-web-querying-and-inference-patterns]] — Query and inference pattern families for RDF/ontology-centered reasoning workflows | concept | 2026-04-17
 - [[proactive-and-reactive-digital-forensics-process]] — Two-component DF model connecting automated live collection to traditional reactive investigation | concept | 2026-04-17
 - [[anti-forensics-in-digital-investigations]] — Adversarial tactics that obstruct evidence discovery, integrity, or interpretation in DF | concept | 2026-04-17
+- [[quality-standards-and-accreditation-in-digital-forensics]] — Quality-system concept linking ISO/IEC 17025-style controls to method validity, competence, and assurance | concept | 2026-04-17
 
 ---
 
@@ -98,6 +100,8 @@ Each entry follows this format:
 - [[forensic-asp-validation-template-for-llm-outputs]] — Practical ontology+ASP template for validating LLM forensic outputs with audit/scope controls | analysis | 2026-04-17
 - [[acpo-vs-proactive-reactive-process-alignment]] — Side-by-side alignment of ACPO governance principles with proactive/reactive DF process design | analysis | 2026-04-17
 - [[agafa-role-in-proactive-reactive-df-process]] — Maps AGAFA to proactive/reactive phases as an analysis/validation component with governance dependencies | analysis | 2026-04-17
+- [[agafa-use-cases-under-acpo-and-quality-standards]] — Use-case-by-use-case fit assessment for AGAFA under ACPO controls and ISO/IEC 17025-style quality expectations | analysis | 2026-04-17
+- [[agafa-go-no-go-deployment-gate]] — Green/amber/red deployment readiness gate for AGAFA under ACPO and DF quality-system controls | analysis | 2026-04-17
 
 ---
 

@@ -3,7 +3,7 @@ title: Audit Trail and Reproducibility in Digital Forensics
 type: concept
 created: 2026-04-17
 updated: 2026-04-17
-sources: [ACPO.pdf]
+sources: [ACPO.pdf, Quality standards for digital forensics.pdf]
 tags: [concept, uk-focused, digital-forensics, auditability, reproducibility]
 ---
 
@@ -36,3 +36,4 @@ This page captures UK-focused guidance context from ACPO; equivalent requirement
 - [[forensic-reporting-fact-vs-opinion]]
 - [[legal-constraints-in-digital-forensics]]
 - [[agafa-framework]]
+- [[quality-standards-and-accreditation-in-digital-forensics]]

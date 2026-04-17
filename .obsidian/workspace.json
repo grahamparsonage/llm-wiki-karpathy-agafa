@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/analyses/agafa-alignment-with-acpo-principles.md",
+                "file": "wiki/log.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "agafa-alignment-with-acpo-principles"
+              "title": "log"
             }
           }
         ]
@@ -185,15 +185,24 @@
   },
   "active": "065e9cb0852e0b64",
   "lastOpenFiles": [
+    "wiki/analyses/agafa-go-no-go-deployment-gate.md",
+    "wiki/analyses/agafa-use-cases-under-acpo-and-quality-standards.md",
+    "wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md",
+    "wiki/sources/quality-standards-for-digital-forensics.md",
+    "raw/Quality standards for digital forensics.pdf",
+    "raw/Unconfirmed 55304.crdownload",
+    "wiki/glossary.md",
+    "wiki/overview.md",
+    "wiki/index.md",
     "wiki/analyses/agafa-role-in-proactive-reactive-df-process.md",
+    "wiki/concepts/proactive-and-reactive-digital-forensics-process.md",
+    "wiki/analyses/agafa-alignment-with-acpo-principles.md",
     "wiki/analyses/acpo-vs-proactive-reactive-process-alignment.md",
     "wiki/concepts/anti-forensics-in-digital-investigations.md",
-    "wiki/concepts/proactive-and-reactive-digital-forensics-process.md",
     "wiki/sources/the-proactive-and-reactive-digital-forensics-investigation-process.md",
     "raw/The Proactive and Reactive Digital Forensics Investigation Process.pdf",
     "raw/Unconfirmed 361559.crdownload",
     "wiki/concepts/acpo-four-principles-of-digital-evidence.md",
-    "wiki/index.md",
     "wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md",
     "wiki/sources/agafa.md",
     "wiki/products/agafa-framework.md",
@@ -208,18 +217,9 @@
     "raw/Unconfirmed 108556.crdownload",
     "wiki/concepts/ontology-engineering-in-digital-forensics.md",
     "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
-    "wiki/overview.md",
-    "wiki/glossary.md",
     "wiki/concepts/digital-forensic-ontology-standardization.md",
     "wiki/concepts/semantic-web-standards-for-digital-forensics-automation.md",
     "raw/WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf",
-    "raw/Unconfirmed 947121.crdownload",
-    "wiki/analyses/agafa-alignment-with-acpo-principles.md",
-    "wiki/sources/acpo-good-practice-guide-digital-evidence-v5.md",
-    "wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md",
-    "wiki/style/forensic-reporting-fact-vs-opinion.md",
-    "wiki/concepts/audit-trail-and-reproducibility-in-df.md",
-    "wiki/analyses",
-    "wiki/style"
+    "raw/Unconfirmed 947121.crdownload"
   ]
 }

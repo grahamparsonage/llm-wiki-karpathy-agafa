@@ -3,7 +3,7 @@ title: Overview
 type: overview
 created: 2026-04-07
 updated: 2026-04-17
-sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf]
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf, The Proactive and Reactive Digital Forensics Investigation Process.pdf, Quality standards for digital forensics.pdf]
 tags: [overview, synthesis]
 ---
 
@@ -15,11 +15,11 @@ tags: [overview, synthesis]
 
 ## Current State
 
-This wiki now includes six ingested sources with framework, procedural, proactive/reactive process, ontology-engineering, rule/ontology integration, and ASP-foundations guidance for explainable digital forensics.
+This wiki now includes seven ingested sources with framework, procedural, proactive/reactive process, quality-standards governance, ontology-engineering, rule/ontology integration, and ASP-foundations guidance for explainable digital forensics.
 
-**Source count:** 6
-**Wiki pages:** 30 (index, log, overview, glossary, 6 sources, 1 product, 15 concepts, 1 style rule, 3 analyses)
-**Last ingest:** 2026-04-17 — The Proactive and Reactive Digital Forensics Investigation Process
+**Source count:** 7
+**Wiki pages:** 34 (index, log, overview, glossary, 7 sources, 1 product, 16 concepts, 1 style rule, 5 analyses)
+**Last ingest:** 2026-04-17 — Quality standards for digital forensics
 **Last lint:** —
 
 ---
@@ -32,6 +32,7 @@ Current coverage includes:
 - The AGAFA framework as a product-level reference
 - ACPO digital evidence principles as a UK-focused procedural baseline
 - Proactive/reactive DF process modeling for live evidence capture and post-incident handoff
+- Quality standards and accreditation practice (ISO/IEC 17025-oriented) for DF reliability assurance
 - Ontology-engineering patterns for semantic evidence integration and automation
 - Rules-and-ontologies integration patterns for explicit derivation workflows
 - ASP foundations including stable model semantics and generate-define-test modeling
@@ -49,6 +50,7 @@ Current coverage includes:
 - **Auditability and reproducibility:** Workflows prioritize contemporaneous records and third-party reviewability.
 - **Procedural governance baseline:** ACPO principles provide UK-focused process guardrails for evidence handling and reporting.
 - **Proactive-to-reactive handoff:** Event-triggered live evidence workflows can feed structured post-mortem investigation.
+- **Quality-system discipline:** Method validation, competency evidence, and audit/proficiency loops are core to dependable DF output.
 - **Semantic integration focus:** Ontology engineering and Semantic Web standards enable machine-interpretable evidence fusion and reasoning.
 - **Reasoning design focus:** Query-language and inference-pattern choices materially affect expressiveness and evaluation behavior.
 - **Scope-bounded investigation design:** Investigation behavior is constrained by legal authority and proportionality principles.
