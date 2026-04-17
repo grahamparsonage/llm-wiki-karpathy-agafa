@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/products/agafa-framework.md",
+                "file": "wiki/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "agafa-framework"
+              "title": "index"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "065e9cb0852e0b64",
   "lastOpenFiles": [
+    "wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md",
+    "wiki/sources/agafa.md",
+    "wiki/products/agafa-framework.md",
     "wiki/sources/what-is-answer-set-programming-lifschitz-2008.md",
     "wiki/concepts/answer-set-programming-asp.md",
     "wiki/index.md",
@@ -199,7 +202,6 @@
     "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
     "wiki/overview.md",
     "wiki/glossary.md",
-    "wiki/products/agafa-framework.md",
     "wiki/concepts/digital-forensic-ontology-standardization.md",
     "wiki/concepts/semantic-web-standards-for-digital-forensics-automation.md",
     "raw/WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf",
@@ -207,7 +209,6 @@
     "wiki/analyses/agafa-alignment-with-acpo-principles.md",
     "wiki/concepts/acpo-four-principles-of-digital-evidence.md",
     "wiki/sources/acpo-good-practice-guide-digital-evidence-v5.md",
-    "wiki/sources/agafa.md",
     "wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md",
     "wiki/style/forensic-reporting-fact-vs-opinion.md",
     "wiki/concepts/audit-trail-and-reproducibility-in-df.md",
@@ -219,7 +220,6 @@
     "wiki/concepts/neuro-symbolic-ai.md",
     "article.md",
     "wiki/concepts/knowledge-augmented-generation-kag.md",
-    "wiki/concepts/retrieval-augmented-generation-rag.md",
-    "wiki/concepts/legal-constraints-in-digital-forensics.md"
+    "wiki/concepts/retrieval-augmented-generation-rag.md"
   ]
 }

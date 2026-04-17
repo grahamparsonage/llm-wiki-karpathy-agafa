@@ -92,6 +92,7 @@ Each entry follows this format:
 
 - [[agafa-alignment-with-acpo-principles]] — Compares AGAFA architecture against ACPO principle expectations and governance needs | analysis | 2026-04-17
 - [[acpo-compliance-checklist-for-agafa-deployments]] — One-page operational checklist for ACPO-aligned AGAFA deployment readiness | analysis | 2026-04-17
+- [[forensic-asp-validation-template-for-llm-outputs]] — Practical ontology+ASP template for validating LLM forensic outputs with audit/scope controls | analysis | 2026-04-17
 
 ---
 

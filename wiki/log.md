@@ -135,3 +135,13 @@ Key additions:
 - Canonical ASP source added with stable model and solver framing
 - Generate-define-test modeling workflow explicitly documented
 - ASP concept strengthened with foundational terminology and links
+
+## [2026-04-17] query | using ASP and ontologies to validate LLM output
+
+Pages consulted:
+- `wiki/concepts/answer-set-programming-asp.md`
+- `wiki/concepts/ontology-engineering-in-digital-forensics.md`
+- `wiki/concepts/legal-constraints-in-digital-forensics.md`
+- `wiki/style/forensic-reporting-fact-vs-opinion.md`
+
+Output filed: yes — `wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md`
