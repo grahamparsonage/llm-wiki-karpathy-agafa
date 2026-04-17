@@ -2,8 +2,8 @@
 title: Overview
 type: overview
 created: 2026-04-07
-updated: 2026-04-07
-sources: []
+updated: 2026-04-17
+sources: [AGAFA.pdf, ACPO.pdf, WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf, reasoning with rules and ontologies..pdf, What is answer set programming.pdf]
 tags: [overview, synthesis]
 ---
 
@@ -15,34 +15,51 @@ tags: [overview, synthesis]
 
 ## Current State
 
-This wiki was just initialized. No sources have been ingested yet.
+This wiki now includes five ingested sources with framework, procedural, ontology-engineering, rule/ontology integration, and ASP-foundations guidance for explainable digital forensics.
 
-**Source count:** 0
-**Wiki pages:** 4 (index, log, overview, glossary)
-**Last ingest:** —
+**Source count:** 5
+**Wiki pages:** 25 (index, log, overview, glossary, 5 sources, 1 product, 13 concepts, 1 style rule, 2 analyses)
+**Last ingest:** 2026-04-17 — What Is Answer Set Programming?
 **Last lint:** —
 
 ---
 
 ## What This Wiki Covers
 
-*(Will populate automatically as you ingest sources. The LLM will update this section to reflect the domain, products, and topics you're building knowledge about.)*
+This knowledge base currently focuses on AI-assisted digital forensics documentation, with emphasis on explainability, formal validation, and UK-focused legal/procedural constraints.
+
+Current coverage includes:
+- The AGAFA framework as a product-level reference
+- ACPO digital evidence principles as a UK-focused procedural baseline
+- Ontology-engineering patterns for semantic evidence integration and automation
+- Rules-and-ontologies integration patterns for explicit derivation workflows
+- ASP foundations including stable model semantics and generate-define-test modeling
+- Neuro-symbolic architecture patterns for forensic workflows
+- RAG/KAG knowledge-grounding approaches
+- ASP-based rule validation
+- Legal/admissibility-oriented constraints in investigative contexts
 
 ---
 
 ## Key Themes
 
-*(Will populate after first few ingests. Expect themes like: product areas, user personas, documentation gaps, terminology decisions, style conventions.)*
+- **Explainability over black-box automation:** AI outputs are paired with explicit knowledge structures and validation logic.
+- **Hybrid architecture:** MM-LLM inference is combined with symbolic ontologies and formal rule checks.
+- **Auditability and reproducibility:** Workflows prioritize contemporaneous records and third-party reviewability.
+- **Procedural governance baseline:** ACPO principles provide UK-focused process guardrails for evidence handling and reporting.
+- **Semantic integration focus:** Ontology engineering and Semantic Web standards enable machine-interpretable evidence fusion and reasoning.
+- **Reasoning design focus:** Query-language and inference-pattern choices materially affect expressiveness and evaluation behavior.
+- **Scope-bounded investigation design:** Investigation behavior is constrained by legal authority and proportionality principles.
+- **Sensitive-domain handling discipline:** Sensitive case examples are documented only at high level, with no operational detail.
 
 ---
 
 ## Open Questions
 
-*(Questions that came up during ingests or queries but haven't been resolved yet. The LLM will maintain this list.)*
-
-- What product or domain is this wiki primarily covering?
-- Who are the primary user personas to document for?
-- Is there an existing style guide to ingest as a baseline?
+- UK-focused framing is now applied. Which non-UK jurisdiction should be prioritized next for comparison/adaptation?
+- Should the wiki include a dedicated page for forensic workflow standards (for example, ISO 17025, evidence handling principles) separate from legal constraints?
+- Which audience should be prioritized next for documentation outputs: investigators, legal reviewers, or policy/oversight stakeholders?
+- Do you want a dedicated analysis comparing ontology stacks (CASE/UCO/DFAX/ParFor/WSFO) for implementation readiness?
 
 ---
 

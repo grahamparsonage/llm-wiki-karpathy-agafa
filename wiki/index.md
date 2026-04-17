@@ -17,8 +17,8 @@ Each entry follows this format:
 
 | Page | Summary | Updated |
 |---|---|---|
-| [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-07 |
-| [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-07 |
+| [[overview]] | High-level synthesis of the entire knowledge base | 2026-04-17 |
+| [[glossary]] | Living terminology, definitions, and style conventions | 2026-04-17 |
 
 ---
 
@@ -26,7 +26,11 @@ Each entry follows this format:
 
 *One entry per raw document ingested. Add entries here after each ingest.*
 
-*(No sources ingested yet — drop a file into `raw/` and say "ingest [filename]" to get started.)*
+- [[agafa]] — Source summary of the AGAFA paper, including extracted entities and implementation-relevant takeaways | source | 2026-04-17
+- [[acpo-good-practice-guide-digital-evidence-v5]] — UK-focused digital evidence guidance with ACPO four principles and workflow framing | source | 2026-04-17
+- [[wires-ai-in-digital-forensics-ontology-engineering]] — Review of ontology engineering as a foundation for automated digital forensic reasoning and data integration | source | 2026-04-17
+- [[reasoning-with-rules-and-ontologies-reasoning-web-2006]] — Tutorial volume framing semantic-web rule/ontology integration and inference/query trade-offs | source | 2026-04-17
+- [[what-is-answer-set-programming-lifschitz-2008]] — Foundational ASP overview covering stable models, solver behavior, and generate-define-test methodology | source | 2026-04-17
 
 ---
 
@@ -42,7 +46,7 @@ Each entry follows this format:
 
 *One entry per product or tool.*
 
-*(Empty — will populate as sources are ingested.)*
+- [[agafa-framework]] — Neuro-symbolic digital forensics framework combining MM-LLM inference with ontology and ASP validation | product | 2026-04-17
 
 ---
 
@@ -58,7 +62,19 @@ Each entry follows this format:
 
 *One entry per core domain concept.*
 
-*(Empty — will populate as sources are ingested.)*
+- [[legal-constraints-in-digital-forensics]] — Legal and procedural constraints shaping admissible, auditable DF workflows | concept | 2026-04-17
+- [[neuro-symbolic-ai]] — Hybrid AI approach combining neural learning with symbolic reasoning for transparency and control | concept | 2026-04-17
+- [[retrieval-augmented-generation-rag]] — Retrieval-grounded generation pattern to improve factuality and domain relevance | concept | 2026-04-17
+- [[knowledge-augmented-generation-kag]] — Structured-knowledge-enhanced generation using ontologies/graphs for context-sensitive retrieval | concept | 2026-04-17
+- [[answer-set-programming-asp]] — Declarative logic paradigm for formal rule-based validation and reproducibility | concept | 2026-04-17
+- [[acpo-four-principles-of-digital-evidence]] — UK-focused four-principle baseline for evidence integrity and accountability | concept | 2026-04-17
+- [[digital-forensic-triage-and-proportionality]] — UK-focused triage-as-process and proportionate scope decisions | concept | 2026-04-17
+- [[audit-trail-and-reproducibility-in-df]] — Process recording and independent reproducibility expectations in DF | concept | 2026-04-17
+- [[ontology-engineering-in-digital-forensics]] — Formal ontology modeling for machine-interpretable evidence integration and reasoning | concept | 2026-04-17
+- [[semantic-web-standards-for-digital-forensics-automation]] — RDF/OWL/SWRL/SPARQL foundations for semantic DF automation workflows | concept | 2026-04-17
+- [[digital-forensic-ontology-standardization]] — Interoperability and reuse challenges from fragmented custom DF ontologies | concept | 2026-04-17
+- [[rules-and-ontologies-integration]] — Integration pattern combining ontology semantics with explicit rule-based derivations | concept | 2026-04-17
+- [[semantic-web-querying-and-inference-patterns]] — Query and inference pattern families for RDF/ontology-centered reasoning workflows | concept | 2026-04-17
 
 ---
 
@@ -66,7 +82,7 @@ Each entry follows this format:
 
 *One entry per writing convention or style guideline.*
 
-*(Empty — will populate as sources are ingested.)*
+- [[forensic-reporting-fact-vs-opinion]] — Separate factual observations from opinion; state basis and limitations clearly | style | 2026-04-17
 
 ---
 
@@ -74,7 +90,8 @@ Each entry follows this format:
 
 *One entry per synthesized output: comparison tables, gap analyses, outlines.*
 
-*(Empty — file your first query answer here to start compounding.)*
+- [[agafa-alignment-with-acpo-principles]] — Compares AGAFA architecture against ACPO principle expectations and governance needs | analysis | 2026-04-17
+- [[acpo-compliance-checklist-for-agafa-deployments]] — One-page operational checklist for ACPO-aligned AGAFA deployment readiness | analysis | 2026-04-17
 
 ---
 
