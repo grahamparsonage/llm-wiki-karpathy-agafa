@@ -26,6 +26,7 @@ wiki/
   log.md                ← append-only chronological activity log
   overview.md           ← high-level synthesis of the full knowledge base
   glossary.md           ← living terminology, definitions, style rules
+  bibliography.md       ← master citation list for all ingested sources
   sources/              ← one summary page per raw source
   features/             ← one page per product feature documented
   products/             ← one page per product or tool
@@ -87,9 +88,10 @@ When the user says "ingest [source]":
 4. Identify which existing wiki pages are affected — update them
 5. Create new entity pages (feature, concept, persona, etc.) as warranted
 6. Update `wiki/glossary.md` with any new or refined terms
-7. Update `wiki/index.md` — add new pages, update summaries of changed pages
-8. Update `wiki/overview.md` if the source shifts the big picture
-9. Append an entry to `wiki/log.md`:
+7. Update `wiki/bibliography.md` — add the source citation and keep entries alphabetized
+8. Update `wiki/index.md` — add new pages, update summaries of changed pages
+9. Update `wiki/overview.md` if the source shifts the big picture
+10. Append an entry to `wiki/log.md`:
    ```
    ## [YYYY-MM-DD] ingest | <source title>
    Pages created: ...
@@ -180,6 +182,7 @@ At the start of every session:
 ## Notes
 
 - Never guess terminology — always check `wiki/glossary.md` first
+- Never add a new source without adding/updating its citation in `wiki/bibliography.md`
 - If a source contradicts the wiki, flag the contradiction explicitly before updating
 - Prefer updating existing pages over creating new ones when the content fits
 - Keep page titles consistent with filenames (kebab-case for filenames)
