@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/bibliography.md",
+                "file": "wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "bibliography"
+              "title": "agafa-ontology-kag-asp-pipeline-suitability"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "3b63e8fc01104f5f",
   "lastOpenFiles": [
-    "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
     "wiki/index.md",
+    "wiki/bibliography.md",
+    "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
     "wiki/style/forensic-reporting-fact-vs-opinion.md",
     "wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md",
     "wiki/analyses/agafa-use-cases-under-acpo-and-quality-standards.md",
@@ -216,7 +217,6 @@
     "raw/Unconfirmed 325085.crdownload",
     "wiki/concepts/semantic-web-querying-and-inference-patterns.md",
     "wiki/concepts/rules-and-ontologies-integration.md",
-    "wiki/sources/reasoning-with-rules-and-ontologies-reasoning-web-2006.md",
     "raw/reasoning with rules and ontologies..pdf",
     "raw/Unconfirmed 108556.crdownload",
     "raw/WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf",

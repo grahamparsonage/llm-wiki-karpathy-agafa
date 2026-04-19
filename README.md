@@ -90,7 +90,7 @@ llm-wiki-karpathy/
 │   └── .gitkeep
 │
 ├── wiki/              # AI-generated knowledge base (AI owns this layer)
-│   ├── index.md       # Master catalog — the AI reads this first on every query
+│   ├── index.md       # Master catalog with summaries for browsing
 │   ├── overview.md    # Big-picture synthesis (evolves with each ingest)
 │   ├── glossary.md    # Terms, definitions, and style conventions
 │   └── log.md         # Chronological record of all activity

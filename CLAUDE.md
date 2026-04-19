@@ -74,6 +74,10 @@ Followed by:
 2. **Body** — structured with headers, lists, and tables as appropriate
 3. **Related pages** section at the bottom — `[[wiki-page-name]]` links
 
+### Wiki voice (no assistant meta)
+
+Write wiki body text and one-line summaries for human readers in Obsidian. Do not add assistant-directed remarks — for example that an LLM reads a page first, checks the glossary before answering, or other operational notes aimed at automation. Describe what each page *is* and *contains* in ordinary reader-facing language.
+
 ---
 
 ## Workflows

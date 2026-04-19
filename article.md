@@ -162,7 +162,7 @@ project-root/
 
 - **Clear separation.** `raw/` is yours. `wiki/` is the AI's. You never write in `wiki/`. The AI never changes `raw/`.
 - **The schema is the brain.** `CLAUDE.md` defines entity types, page formats, and workflows. The AI reads this file first and follows its rules. Edit this file to change how the AI behaves for your specific domain.
-- **The index is the map.** When you ask a question, the AI reads `index.md` first to find relevant pages, then drills into them. No vector databases or embeddings needed — the index works surprisingly well up to hundreds of pages.
+- **The index is the map.** `index.md` lists every page with a short summary so you can skim for what matters, then follow links. No vector databases or embeddings required — it stays workable up to hundreds of pages.
 - **The log is the timeline.** Every ingest, query, and lint pass is recorded with timestamps. You always know what happened and when.
 - **Obsidian is pre-configured.** Anyone who clones the repo gets a ready-to-use Obsidian vault with graph view, hotkeys, and sidebar layout already set up. No manual configuration needed.
 
