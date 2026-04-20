@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md",
+                "file": "wiki/sources/how-ontologies-have-supported-digital-forensics-fsr-2024.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "agafa-ontology-kag-asp-pipeline-suitability"
+              "title": "how-ontologies-have-supported-digital-forensics-fsr-2024"
             }
           }
         ]
@@ -185,7 +185,10 @@
   },
   "active": "3b63e8fc01104f5f",
   "lastOpenFiles": [
+    "wiki/concepts/digital-forensic-ontology-standardization.md",
+    "wiki/overview.md",
     "wiki/index.md",
+    "wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md",
     "wiki/bibliography.md",
     "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
     "wiki/style/forensic-reporting-fact-vs-opinion.md",
@@ -198,7 +201,6 @@
     "raw/Quality standards for digital forensics.pdf",
     "raw/Unconfirmed 55304.crdownload",
     "wiki/glossary.md",
-    "wiki/overview.md",
     "wiki/analyses/agafa-role-in-proactive-reactive-df-process.md",
     "wiki/concepts/proactive-and-reactive-digital-forensics-process.md",
     "wiki/analyses/agafa-alignment-with-acpo-principles.md",
@@ -215,8 +217,6 @@
     "wiki/concepts/answer-set-programming-asp.md",
     "raw/What is answer set programming.pdf",
     "raw/Unconfirmed 325085.crdownload",
-    "wiki/concepts/semantic-web-querying-and-inference-patterns.md",
-    "wiki/concepts/rules-and-ontologies-integration.md",
     "raw/reasoning with rules and ontologies..pdf",
     "raw/Unconfirmed 108556.crdownload",
     "raw/WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf",
