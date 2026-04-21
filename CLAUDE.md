@@ -69,6 +69,9 @@ tags: [relevant tags]
 ---
 ```
 
+YAML safety rule:
+- If a `title` contains a colon (`:`), wrap it in double quotes (for example `title: "A: B"`), to avoid markdown frontmatter parse errors in static-site pipelines.
+
 Followed by:
 1. **One-line summary** (used in index.md)
 2. **Body** — structured with headers, lists, and tables as appropriate
