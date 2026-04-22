@@ -2,20 +2,90 @@
 title: Student Projects (Honours Year, CyBOK-aligned)
 type: analysis
 created: 2026-04-21
-updated: 2026-04-21
+updated: 2026-04-22
 sources: [CyBOK_v1.1.0.pdf, AGAFA.pdf, ACPO.pdf, validation_guidance.pdf, Explainable artificial intelligence for digital forensics.pdf]
-tags: [development, student-projects, honours, cybok, cybersecurity-education, computer-science-education]
+tags: [student-project-ideas, student-projects, honours, cybok, cybersecurity-education, computer-science-education]
 ---
 
 Honours-year project portfolio for Cyber Security and Computer Science students, with each idea mapped to relevant CyBOK Knowledge Areas (KAs) and scoped for one academic year.
 
+## AGAFA-specific project ideas (priority)
+
+### A1) AGAFA evidence-provenance and audit-trail engine
+**Problem:** Build a tamper-evident provenance layer for AGAFA outputs so each finding can be traced to source evidence, transformation steps, and analyst decisions.
+
+**Core deliverables**
+- Provenance schema linking artefacts, workflow steps, and generated claims.
+- Immutable audit log for analyst interactions and model inferences.
+- "Explain this conclusion" view for case review and court-facing disclosure.
+- Validation pack showing completeness and integrity of trace records.
+
+**CyBOK KA alignment**
+- Forensics
+- Law & Regulation
+- Risk Management and Governance
+- Security Operations & Incident Management
+
+**Track:** Software-heavy
+
+### A2) AGAFA validation harness aligned to forensic method guidance
+**Problem:** Create a repeatable validation harness for AGAFA methods, including dataset controls, threshold tracking, and revalidation triggers.
+
+**Core deliverables**
+- Test harness for accuracy, robustness, and reproducibility checks.
+- Requirement-to-test traceability matrix for AGAFA components.
+- Drift and failure monitoring with escalation thresholds.
+- Evidence bundle template for supervisor/moderator review.
+
+**CyBOK KA alignment**
+- Risk Management and Governance
+- Software Security
+- Forensics
+- Human Factors
+
+**Track:** Mixed
+
+### A3) AGAFA explainability evaluator for investigator trust
+**Problem:** Evaluate how explanation styles in AGAFA affect investigator confidence, error detection, and decision quality.
+
+**Core deliverables**
+- Multiple explanation modes (feature attribution, rationale text, evidence citation).
+- User study protocol for investigators/students.
+- Quantitative and qualitative analysis of trust vs performance.
+- Recommendation guide for default explanation policy in AGAFA.
+
+**CyBOK KA alignment**
+- Human Factors
+- Security Operations & Incident Management
+- Forensics
+- Risk Management and Governance
+
+**Track:** Research-heavy
+
+### A4) AGAFA policy-compliance checker for UK deployment readiness
+**Problem:** Build a rules-based compliance checker that tests AGAFA workflows against legal, governance, and disclosure requirements before case deployment.
+
+**Core deliverables**
+- Machine-readable policy checklist mapped to AGAFA lifecycle stages.
+- Automated pass/warn/fail compliance reports with remediation prompts.
+- Case-readiness dashboard for supervisors and moderators.
+- Pilot evaluation on synthetic and historical case scenarios.
+
+**CyBOK KA alignment**
+- Law & Regulation
+- Risk Management and Governance
+- Secure Software Lifecycle
+- Forensics
+
+**Track:** Software-heavy
+
 ## Project tracks
 
-- **Software-heavy:** 2, 4, 6, 8, 10
-- **Research-heavy:** 5, 9
-- **Mixed:** 1, 3, 7
+- **Software-heavy:** A1, A4, 2, 4, 6, 8, 10
+- **Research-heavy:** A3, 5, 9
+- **Mixed:** A2, 1, 3, 7
 
-## Student Projects
+## Other Projects
 
 ### 1) Explainable phishing-detection assistant
 **Problem:** Build an email-phishing detector that provides human-readable reasons for each decision.
@@ -296,11 +366,12 @@ Honours-year project portfolio for Cyber Security and Computer Science students,
 - Access-control and authentication fundamentals.
 
 ## Supervision and assessment template
-- **Weeks 1-3:** scope definition, literature review, and project plan.
-- **Weeks 4-8:** architecture + prototype baseline.
-- **Weeks 9-16:** implementation and iterative evaluation.
-- **Weeks 17-22:** hardening, documentation, and dissertation write-up.
-- **Assessment split:** 20% proposal, 20% mid-term demo, 40% final artefact and evaluation, 20% dissertation and viva.
+- **Assessment Group 1 (30% overall)**
+  - Project Management: 10% (assessed by Supervisor)
+  - Interim Report: 10% (assessed by Supervisor and Moderator)
+  - Presentation: 10% (assessed by Supervisor and Moderator)
+- **Assessment Group 2 (70% overall)**
+  - Final Honours Project Report: 70% (assessed by Supervisor and Moderator)
 
 ## Related pages
 - [[cyber-security-body-of-knowledge-cybok]]
