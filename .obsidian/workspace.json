@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/how-ontologies-have-supported-digital-forensics-fsr-2024.md",
+                "file": "wiki/analyses/protege-and-clingo-suitability-for-agafa.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "how-ontologies-have-supported-digital-forensics-fsr-2024"
+              "title": "protege-and-clingo-suitability-for-agafa"
             }
           }
         ]
@@ -185,11 +185,34 @@
   },
   "active": "3b63e8fc01104f5f",
   "lastOpenFiles": [
-    "wiki/concepts/digital-forensic-ontology-standardization.md",
+    "wiki/analyses/five-paper-evidence-map-methods-datasets-limitations-and-agafa-implications.md",
+    "wiki/analyses/protege-and-clingo-suitability-for-agafa.md",
+    "wiki/sources/owl-reasoners-still-useable-in-2023.md",
+    "raw/2309.06888v1.pdf",
+    "raw/Unconfirmed 530955.crdownload",
+    "raw/Processed/2407.18723v1.pdf",
+    "raw/Processed/OASIcs.ICLP.2016.2.pdf",
+    "raw/Processed/1809.08304v1.pdf",
+    "wiki/sources/llasp-fine-tuning-large-language-models-for-answer-set-programming.md",
+    "wiki/sources/theory-solving-made-easy-with-clingo-5.md",
+    "wiki/sources/onlinesparc-a-programming-environment-for-answer-set-programming.md",
+    "raw/2407.18723v1.pdf",
+    "raw/Unconfirmed 164951.crdownload",
+    "raw/OASIcs.ICLP.2016.2.pdf",
+    "raw/Unconfirmed 756408.crdownload",
+    "raw/1809.08304v1.pdf",
     "wiki/overview.md",
-    "wiki/index.md",
-    "wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md",
     "wiki/bibliography.md",
+    "wiki/index.md",
+    "wiki/analyses/case-uco-dfax-implementation-readiness-comparison.md",
+    "wiki/sources/advancing-coordinated-cyber-investigations-and-tool-interoperability-using-community-developed-specification-language.md",
+    "wiki/sources/leveraging-cybox-to-standardize-representation-and-exchange-of-digital-forensic-information.md",
+    "wiki/sources/knowledge-graphs-and-semantic-web-tools-in-cyber-threat-intelligence-systematic-literature-review.md",
+    "wiki/Student Project Ideas/student-projects-honours-year-cybok-aligned.md",
+    "wiki/sources/legal-and-policy-framework-for-digital-forensics-2022.md",
+    "wiki/sources/how-ontologies-have-supported-digital-forensics-fsr-2024.md",
+    "wiki/concepts/digital-forensic-ontology-standardization.md",
+    "wiki/analyses/agafa-ontology-kag-asp-pipeline-suitability.md",
     "wiki/sources/wires-ai-in-digital-forensics-ontology-engineering.md",
     "wiki/style/forensic-reporting-fact-vs-opinion.md",
     "wiki/analyses/acpo-compliance-checklist-for-agafa-deployments.md",
@@ -197,29 +220,6 @@
     "wiki/log.md",
     "wiki/analyses/agafa-go-no-go-deployment-gate.md",
     "wiki/concepts/quality-standards-and-accreditation-in-digital-forensics.md",
-    "wiki/sources/quality-standards-for-digital-forensics.md",
-    "raw/Quality standards for digital forensics.pdf",
-    "raw/Unconfirmed 55304.crdownload",
-    "wiki/glossary.md",
-    "wiki/analyses/agafa-role-in-proactive-reactive-df-process.md",
-    "wiki/concepts/proactive-and-reactive-digital-forensics-process.md",
-    "wiki/analyses/agafa-alignment-with-acpo-principles.md",
-    "wiki/analyses/acpo-vs-proactive-reactive-process-alignment.md",
-    "wiki/concepts/anti-forensics-in-digital-investigations.md",
-    "wiki/sources/the-proactive-and-reactive-digital-forensics-investigation-process.md",
-    "raw/The Proactive and Reactive Digital Forensics Investigation Process.pdf",
-    "raw/Unconfirmed 361559.crdownload",
-    "wiki/concepts/acpo-four-principles-of-digital-evidence.md",
-    "wiki/analyses/forensic-asp-validation-template-for-llm-outputs.md",
-    "wiki/sources/agafa.md",
-    "wiki/products/agafa-framework.md",
-    "wiki/sources/what-is-answer-set-programming-lifschitz-2008.md",
-    "wiki/concepts/answer-set-programming-asp.md",
-    "raw/What is answer set programming.pdf",
-    "raw/Unconfirmed 325085.crdownload",
-    "raw/reasoning with rules and ontologies..pdf",
-    "raw/Unconfirmed 108556.crdownload",
-    "raw/WIREs Forensic Science - 2020 - Sikos - AI in digital forensics  Ontology engineering for cybercrime investigations.pdf",
-    "raw/Unconfirmed 947121.crdownload"
+    "wiki/sources/quality-standards-for-digital-forensics.md"
   ]
 }
