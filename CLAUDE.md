@@ -194,3 +194,5 @@ At the start of every session:
 - Prefer updating existing pages over creating new ones when the content fits
 - Keep page titles consistent with filenames (kebab-case for filenames)
 - The wiki is a git repo of markdown — everything is versioned automatically
+- On every new ingest, also update the repository-level `annotated-bibliography.tex` and `annotated-bibliography.bib` files
+- Keep those annotated bibliography files outside `wiki/` (do not create wiki pages for them)
